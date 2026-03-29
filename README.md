@@ -3,7 +3,7 @@
 <div align="center">
   <div style="height: 15px"></div>
   <a href="https://github.com/juninalmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFC300&center=true&vCenter=true&width=600&lines=J%C3%BAnior+Almeida;FullStack+Developer;Node.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=J%C3%BAnior+Almeida;FullStack+Developer;Node.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
   </a>
   <div style="height: 15px"></div>
 </div>
@@ -78,10 +78,10 @@
 
 <div align="center">
   <a href="https://github.com/juninalmeida">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juninalmeida&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=FFC300&icon_color=FFC300&title_color=FFC300" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juninalmeida&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=false&ring_color=8B949E&icon_color=8B949E&title_color=8B949E" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/juninalmeida">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juninalmeida&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=FFC300" alt="Top Langs" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juninalmeida&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=8B949E" alt="Top Langs" />
   </a>
 </div>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
   <a href="https://github.com/juninalmeida">
-    <img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=juninalmeida&theme=github-dark-blue&hide_border=true&ring=FFC300&fire=FFC300&currStreakLabel=FFC300" alt="GitHub Streak" />
+    <img width="490" src="https://github-readme-streak-stats.herokuapp.com?user=juninalmeida&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" alt="GitHub Streak" />
   </a>
 </div>
 
