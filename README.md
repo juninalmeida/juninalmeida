@@ -3,7 +3,7 @@
 <div align="center">
   <div style="height: 15px"></div>
   <a href="https://github.com/juninalmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=J%C3%BAnior+Almeida;FullStack+Developer;Node.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFC300&center=true&vCenter=true&width=600&lines=J%C3%BAnior+Almeida;FullStack+Developer;Node.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
   </a>
   <div style="height: 15px"></div>
 </div>
